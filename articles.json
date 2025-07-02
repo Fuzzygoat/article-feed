@@ -2,9 +2,17 @@
   {
     "id": "1",
     "title": "Daedalus Areoshell",
-    "publishedAt": "2020-Aug-05 00:00",
+    "publishedAt": "2029-Aug-05 00:00",
     "iconName": "circle.circle.fill",
     "imageURL": "https://fuzzygoat.github.io/article-feed/assets/image.png",
     "body": "An aeroshell is a rigid heat-shielded shell that helps decelerate and protect a spacecraft vehicle from pressure, heat, and possible debris created by drag during atmospheric entry."
+  },
+  {
+    "id": "2",
+    "title": "Engine Failure After Landing",
+    "publishedAt": "2029-Aug-06 12:30",
+    "iconName": "circle.hexagongrid.circle.fill",
+    "imageURL": "https://fuzzygoat.github.io/article-feed/assets/engine.png",
+    "body": "Shortly after landing on the Martian surface, the Daedalus lander experienced a partial engine malfunction. Engineers on board initiated temporary repairs using onboard tools. A full diagnostic is pending."
   }
 ]

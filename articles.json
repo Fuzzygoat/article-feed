@@ -1,0 +1,10 @@
+[
+  {
+    "id": "1",
+    "title": "Daedalus Areoshell",
+    "publishedAt": "2029-08-05T00:00:00Z",
+    "iconURL": "https://example.com/icon.png",
+    "imageURL": "https://example.com/image.jpg",
+    "body": "An aeroshell is a rigid heat-shielded shell that helps decelerate and protect a spacecraft during atmospheric entry."
+  }
+]

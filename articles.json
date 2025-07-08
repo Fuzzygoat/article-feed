@@ -4,7 +4,7 @@
     "title": "Helium-3 Reactor Test Complete",
     "publishedAt": "2029-Aug-05 00:00",
     "iconName": "circle.circle.fill",
-    "imageURL": "https://fuzzygoat.github.io/article-feed/assets/MarsBase.png",
+    "imageURL": "https://fuzzygoat.github.io/article-feed/assets/mFusion.png",
     "body": "The Helium-3 prototype reactor aboard Olympus Base achieved sustained ignition. Power output exceeded projections by 12%. Thermal shielding and core plasma stability remained within expected tolerances during the full 8-hour test cycle, confirming readiness for scaled deployment in Phase 2."
   },
   {
@@ -12,7 +12,7 @@
     "title": "Phobos Elevator Stability Test",
     "publishedAt": "2029-Aug-16 12:30",
     "iconName": "circle.hexagongrid.circle.fill",
-    "imageURL": "https://fuzzygoat.github.io/article-feed/assets/MarsPlatform.png",
+    "imageURL": "https://fuzzygoat.github.io/article-feed/assets/mPlatform.png",
     "body": "Tether oscillation tests for the Phobos orbital elevator passed Phase 3 parameters. Deployment planned for Q4. Wind shear damping and auto-tensioning systems showed improved performance under simulated micrometeorite impact conditions, reducing vibration amplitude by 34%."
   },
   {
@@ -20,7 +20,7 @@
     "title": "AI Rover Discovers Ice Vein",
     "publishedAt": "2029-Aug-23 08:25",
     "iconName": "circle.hexagongrid.circle.fill",
-    "imageURL": "https://fuzzygoat.github.io/article-feed/assets/MarsRover.png",
+    "imageURL": "https://fuzzygoat.github.io/article-feed/assets/mRover.png",
     "body": "Autonomous Rover ARGO mapped a subglacial ice deposit under Elysium Planitia. Estimated reserves: 18,000 m³. Ground-penetrating radar and spectroscopic analysis confirm purity levels suitable for electrolysis-based life support and fuel synthesis applications."
   }
 ]

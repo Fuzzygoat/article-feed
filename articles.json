@@ -1,28 +1,30 @@
 [
   {
-    "id": "3041",
-    "title": "Asteroid Deflection Succeeds",
-    "publishedAt": "2029-Aug-25 11:10",
+    "id": "1001",
+    "title": "Helium-3 Reactor Test",
+    "publishedAt": "2042-03-14 09:00",
     "iconName": "circle.circle.fill",
-    "imageURL": "https://fuzzygoat.github.io/article-feed/assets/placeholder7.png",
-    "body": "The KTX3 probe successfully executed a controlled kinetic impact on simulated target 2028-AL3. Trajectory alteration exceeded mission baseline by 9.7%. Onboard sensors recorded minimal fragmentation and validated autonomous vector correction systems under real-time latency."
+    "imageURL": "https://fuzzygoat.github.io/article-feed/assets/mFusion.png",
+    "body": "The Helium-3 prototype reactor aboard Olympus Base achieved sustained ignition. Power output exceeded projections by 12%. Thermal shielding and core plasma stability remained within expected tolerances during the full 8-hour test cycle, confirming readiness for scaled deployment in Phase 2."
   },
   {
-    "id": "3051",
-    "title": "3I/ATLAS Trajectory Update",
-    "publishedAt": "2029-Aug-27 14:25",
+    "id": "1002",
+    "title": "Elevator Stability Test",
+    "publishedAt": "2042-03-15 13:45",
     "iconName": "circle.circle.fill",
-    "imageURL": "https://fuzzygoat.github.io/article-feed/assets/placeholder8.png",
-    "body": "JPL released a revised course projection for interstellar object 3I/ATLAS. Spectral scans confirm metallic-rich surface composition and a tumbling rotation. Close solar pass expected to enhance data return via thermal resonance imaging—arrival window: 2029-Sep-03 ±12h."
+    "imageURL": "https://fuzzygoat.github.io/article-feed/assets/mPlatform.png",
+    "body": "Tether oscillation tests for the Phobos orbital elevator passed Phase 3 parameters. Deployment planned for Q4. Wind shear damping and auto-tensioning systems showed improved performance under simulated micrometeorite impact conditions, reducing vibration amplitude by 34%."
   },
   {
-    "id": "3061",
-    "title": "Orbital Net Deployed",
-    "publishedAt": "2029-Aug-29 07:55",
+    "id": "1003",
+    "title": "Rover Discovers Ice Vein",
+    "publishedAt": "2042-03-16 18:20",
     "iconName": "circle.circle.fill",
-    "imageURL": "https://fuzzygoat.github.io/article-feed/assets/placeholder10.png",
-    "body": "Low-orbit debris net 'Aegis-4' unfurled successfully above Mars' equatorial plane. Designed to capture micrometeoroids and mission remnants, the net uses nano-filament weave with magnetic repulsion nodes, providing a 38% increase in orbital safety for transit vessels."
+    "imageURL": "https://fuzzygoat.github.io/article-feed/assets/mRover.png",
+    "body": "Autonomous Rover ARGO mapped a subglacial ice deposit under Elysium Planitia. Estimated reserves: 18,000 m³. Ground-penetrating radar and spectroscopic analysis confirm purity levels suitable for electrolysis-based life support and fuel synthesis applications."
   }
 ]
+
+
 
 

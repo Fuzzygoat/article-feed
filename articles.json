@@ -1,27 +1,27 @@
 [
   {
-    "id": "1231",
-    "title": "Helium-3 Reactor Test",
+    "id": "42031745",
+    "title": "Deflection Trial",
     "publishedAt": "2042-03-14 09:00",
     "iconName": "circle.circle.fill",
-    "imageURL": "https://fuzzygoat.github.io/article-feed/assets/mFusion.png",
-    "body": "The Helium-3 prototype reactor aboard Olympus Base achieved sustained ignition. Power output exceeded projections by 12%. Thermal shielding and core plasma stability remained within expected tolerances during the full 8-hour test cycle, confirming readiness for scaled deployment in Phase 2."
+    "imageURL": "https://fuzzygoat.github.io/article-feed/assets/placeholder9.png",
+    "body": "The kinetic impactor test against NEO 2027-XQ achieved measurable trajectory change. Surface ejecta analysis confirms momentum transfer exceeded predictions by 11%. Follow-up tracking will validate orbital shift before proposing scaled interventions."
   },
   {
-    "id": "1232",
-    "title": "Elevator Stability Test",
+    "id": "42035982",
+    "title": "Shield Test",
     "publishedAt": "2042-03-15 13:45",
     "iconName": "circle.circle.fill",
-    "imageURL": "https://fuzzygoat.github.io/article-feed/assets/mPlatform.png",
-    "body": "Tether oscillation tests for the Phobos orbital elevator passed Phase 3 parameters. Deployment planned for Q4. Wind shear damping and auto-tensioning systems showed improved performance under simulated micrometeorite impact conditions, reducing vibration amplitude by 34%."
+    "imageURL": "https://fuzzygoat.github.io/article-feed/assets/placeholder8.png",
+    "body": "Phase 2 trials of the micro-meteoroid shielding lattice completed in low-Earth orbit. Structural integrity held against 0.2g projectiles. Real-time deformation feedback showed promising resilience, with reconfiguration systems triggering within 30ms."
   },
   {
-    "id": "1233",
-    "title": "Rover Discovers Ice Vein",
+    "id": "42038479",
+    "title": "Hydrate Scan",
     "publishedAt": "2042-03-16 18:20",
     "iconName": "circle.circle.fill",
-    "imageURL": "https://fuzzygoat.github.io/article-feed/assets/mRover.png",
-    "body": "Autonomous Rover ARGO mapped a subglacial ice deposit under Elysium Planitia. Estimated reserves: 18,000 m³. Ground-penetrating radar and spectroscopic analysis confirm purity levels suitable for electrolysis-based life support and fuel synthesis applications."
+    "imageURL": "https://fuzzygoat.github.io/article-feed/assets/placeholder7.png",
+    "body": "NEO survey drone GR-91 identified subsurface hydrated minerals on Apollo-class object 1998-KV. Spectrometry shows signatures consistent with phyllosilicates. Findings support theories of water transport and potential for future in-situ fuel extraction."
   }
 ]
 

@@ -2,25 +2,25 @@
   {
     "id": "42031745",
     "title": "Deflection Trial",
-    "publishedAt": "2042-03-14 09:00",
-    "iconName": "circle.circle.fill",
-    "imageURL": "https://fuzzygoat.github.io/article-feed/assets/placeholder9.png",
+    "date": "2042-03-14 09:00",
+    "symbol": "circle.circle.fill",
+    "image": "https://fuzzygoat.github.io/article-feed/assets/placeholder9.png",
     "body": "The kinetic impactor test against NEO 2027-XQ achieved measurable trajectory change. Surface ejecta analysis confirms momentum transfer exceeded predictions by 11%. Follow-up tracking will validate orbital shift before proposing scaled interventions."
   },
   {
     "id": "42035982",
     "title": "Shield Test",
-    "publishedAt": "2042-03-15 13:45",
-    "iconName": "circle.circle.fill",
-    "imageURL": "https://fuzzygoat.github.io/article-feed/assets/placeholder8.png",
+    "date": "2042-03-15 13:45",
+    "symbol": "circle.circle.fill",
+    "image": "https://fuzzygoat.github.io/article-feed/assets/placeholder8.png",
     "body": "Phase 2 trials of the micro-meteoroid shielding lattice completed in low-Earth orbit. Structural integrity held against 0.2g projectiles. Real-time deformation feedback showed promising resilience, with reconfiguration systems triggering within 30ms."
   },
   {
     "id": "42038479",
     "title": "Hydrate Scan",
-    "publishedAt": "2042-03-16 18:20",
-    "iconName": "circle.circle.fill",
-    "imageURL": "https://fuzzygoat.github.io/article-feed/assets/placeholder7.png",
+    "date": "2042-03-16 18:20",
+    "symbol": "circle.circle.fill",
+    "image": "https://fuzzygoat.github.io/article-feed/assets/placeholder7.png",
     "body": "NEO survey drone GR-91 identified subsurface hydrated minerals on Apollo-class object 1998-KV. Spectrometry shows signatures consistent with phyllosilicates. Findings support theories of water transport and potential for future in-situ fuel extraction."
   }
 ]

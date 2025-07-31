@@ -1,6 +1,5 @@
 [
   {
-    "id": "42031745",
     "title": "L1 Deflection Trial",
     "date": "2042-03-14 09:00",
     "symbol": "circle.circle.fill",
@@ -8,7 +7,6 @@
     "body": "The kinetic impactor test against NEO 2027-XQ achieved measurable trajectory change. Surface ejecta analysis confirms momentum transfer exceeded predictions by 11%. Follow-up tracking will validate orbital shift before proposing scaled interventions."
   },
   {
-    "id": "42035982",
     "title": "L2 Shield Test",
     "date": "2042-03-15 13:45",
     "symbol": "circle.circle.fill",
@@ -16,7 +14,6 @@
     "body": "Phase 2 trials of the micro-meteoroid shielding lattice completed in low-Earth orbit. Structural integrity held against 0.2g projectiles. Real-time deformation feedback showed promising resilience, with reconfiguration systems triggering within 30ms."
   },
   {
-    "id": "42038479",
     "title": "L3 Hydrate Scan",
     "date": "2042-03-16 18:20",
     "symbol": "circle.circle.fill",

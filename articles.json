@@ -1,7 +1,7 @@
 [
   {
     "id": "42031745",
-    "title": "Deflection Trial",
+    "title": "L1 Deflection Trial",
     "date": "2042-03-14 09:00",
     "symbol": "circle.circle.fill",
     "image": "https://fuzzygoat.github.io/article-feed/assets/placeholder9.png",
@@ -9,7 +9,7 @@
   },
   {
     "id": "42035982",
-    "title": "Shield Test",
+    "title": "L2 Shield Test",
     "date": "2042-03-15 13:45",
     "symbol": "circle.circle.fill",
     "image": "https://fuzzygoat.github.io/article-feed/assets/placeholder8.png",
@@ -17,7 +17,7 @@
   },
   {
     "id": "42038479",
-    "title": "Hydrate Scan",
+    "title": "L3 Hydrate Scan",
     "date": "2042-03-16 18:20",
     "symbol": "circle.circle.fill",
     "image": "https://fuzzygoat.github.io/article-feed/assets/placeholder7.png",

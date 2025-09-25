@@ -1,0 +1,32 @@
+[
+    {
+        "name": "gold",
+        "price": 3732.3431,
+        "base": "USD",
+        "date": "2025-09-25 00:00"
+    },
+    {
+        "name": "platinum",
+        "price": 1511.9444,
+        "base": "USD",
+        "date": "2025-09-25 00:00"
+    },
+    {
+        "name": "iridium",
+        "price": 4613.3129,
+        "base": "USD",
+        "date": "2025-09-25 00:00"
+    },
+    {
+        "name": "palladium",
+        "price": 1227.0,
+        "base": "USD",
+        "date": "2025-09-25 00:00"
+    },
+    {
+        "name": "ruthenium",
+        "price": 923.0,
+        "base": "USD",
+        "date": "2025-09-25 00:00"
+    }
+]
